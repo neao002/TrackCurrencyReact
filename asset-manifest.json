@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TrackCurrencyReact/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/TrackCurrencyReact/static/js/main.1dd47b61.chunk.js",
+    "main.js.map": "/TrackCurrencyReact/static/js/main.1dd47b61.chunk.js.map",
+    "runtime-main.js": "/TrackCurrencyReact/static/js/runtime-main.52c0c8a6.js",
+    "runtime-main.js.map": "/TrackCurrencyReact/static/js/runtime-main.52c0c8a6.js.map",
+    "static/js/2.2be0dbf1.chunk.js": "/TrackCurrencyReact/static/js/2.2be0dbf1.chunk.js",
+    "static/js/2.2be0dbf1.chunk.js.map": "/TrackCurrencyReact/static/js/2.2be0dbf1.chunk.js.map",
+    "static/js/3.4fd53623.chunk.js": "/TrackCurrencyReact/static/js/3.4fd53623.chunk.js",
+    "static/js/3.4fd53623.chunk.js.map": "/TrackCurrencyReact/static/js/3.4fd53623.chunk.js.map",
+    "index.html": "/TrackCurrencyReact/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/TrackCurrencyReact/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2be0dbf1.chunk.js.LICENSE.txt": "/TrackCurrencyReact/static/js/2.2be0dbf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52c0c8a6.js",
+    "static/js/2.2be0dbf1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1dd47b61.chunk.js"
+  ]
+}
